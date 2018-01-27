@@ -1,2 +1,2 @@
-# prime_checker
+# PrimeChecker
 checks whether the number is prime.
